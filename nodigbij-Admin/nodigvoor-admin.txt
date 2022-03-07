@@ -1,0 +1,20 @@
+
+login as admin role:
+url:
+http://localhost/folder---of geen ../werkprojectcvo/adminstore/login.php
+
+email: admin@gmail.com
+password: admin@gmail.com
+
+
+add product
+add categories
+add coupon:
+
+
+frontend:
+cart: add to cart , delete cart met product
+
+payment checkout:  item product  word verwijderd in cart want 
+er is geen payment zoals stripe maar als het nodig zal ik het doen door TEST api van stripe met php te gebruiken 
+ 
